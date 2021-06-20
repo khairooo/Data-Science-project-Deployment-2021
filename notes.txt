@@ -1,0 +1,14 @@
+Under the lines of this file I want to give my remarques related to this project 
+- I have already created a new gitlab branch called big-mama, instead of pushing directly to the master branch 
+- About the code : To avoid plagiarism I would say that not all the code was mine, I took some inspirations from different Data Scientist, Websites Like : https://github.com/krishnaik06
+- In the jupyter notebbok where The data got cleaned and where the model created, I have to say that I had a chance to get a high accuracy predictions 
+But I prefered to use only LogisticResgression. Also I didn't use any technique to choose which are the best features, means that I chose the them manually 
+depending on the Question and the insights that we attempted to get.
+- About HTML and CSS, I had only created them within the same file called index.html 
+- When I read the discription at gitlab, where every column was explained, there are few column that does exist  
+- All the libraries that used in this project are mentioned in the file requirements.txt, for futher information about the libraries please check the file requirements.txt
+- The data was devided to two parts train and test, after that you can see that I used one of the evaluation technics to evaluate the algorithms called Cross Validation Score
+- In the part of feature engineering I chose a simple technique to convert the data from categorical to numerical "get_dummies()"
+- The data converted from tar.dz to csv.
+-clicked, omitted on purpose or not. The answer to the test is the code you wrote to find these probabilities.
+- I wished the Dataset Was well explained, especially the target value, I would be better to find an explaination for how to the final results would be.
